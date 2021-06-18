@@ -4,7 +4,7 @@
 
 掘金: [vue-cli4 vant rem 移动端框架方案](https://juejin.im/post/5cfefc73f265da1bba58f9f7)
 
-[查看 demo](https://sunniejs.cn/vue-h5-template/#/) 建议手机端查看
+[查看 demo](https://github.com/LiSir-FE/vue-h5-nameList.git) 建议手机端查看
 
 <p>
   <img src="./static/demo.png" width="320" style="display:inline;">
@@ -21,9 +21,9 @@
 
 ```bash
 
-git clone https://github.com/sunniejs/vue-h5-template.git
+git clone https://github.com/LiSir-FE/vue-h5-nameList.git
 
-cd vue-h5-template
+cd vue-h5-nameList
 
 npm install
 
@@ -164,8 +164,6 @@ module.exports = {
   }
 }
 ```
-
-更多详细信息： [vant](https://youzan.github.io/vant/#/zh-CN/quickstart#jin-jie-yong-fa)
 
 **新手必看，老鸟跳过**
 
